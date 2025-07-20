@@ -96,11 +96,12 @@ span{
     align-items: center;
 }
 
-.logo {
+.logo a{
     font-family: 'Montserrat', sans-serif;
-    font-size: 1.8em;
+    font-size: 0.8em;
     color: var(--background-light);
     font-weight: 700;
+    text-decoration: none;
 }
 
 .nav-list {
