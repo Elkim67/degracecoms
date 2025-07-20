@@ -131,7 +131,7 @@ span{
     background: none;
     border: none;
     font-size: 2em;
-    color: var(--primary-color);
+    color: var(--text-light);
     cursor: pointer;
     padding: 5px;
 }
