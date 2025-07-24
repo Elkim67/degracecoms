@@ -219,6 +219,13 @@ span{
     font-size: 0.95em;
 }
 
+.services-details{
+    margin-top: 2.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 /* --- Formations Section --- */
 .formations-section {
     background-color: #e9ecef; /* Une couleur de fond légèrement différente pour distinguer les sections */
